@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ProgressiveElectronApps/XDAForums">
-    <img src="images/xdaBANNER-modified.png" alt="Logo" width="932" height="306">
+    <img src="images/xdaBANNER.jpg" alt="Logo" width="932" height="306">
   </a>
 
   <p align="center">
