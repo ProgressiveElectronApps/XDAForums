@@ -87,7 +87,7 @@ Distributed under the uploaded License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Email](mailto:kwahli@naazimapps.com) - kwahli@naazimapps.com
+Kwahli - [Email](mailto:kwahli@naazimapps.com) - kwahli@naazimapps.com
 
 Project Link: [github.com/ProgressiveElectronApps/XDAForums](https://github.com/ProgressiveElectronApps/XDAForums)
 
