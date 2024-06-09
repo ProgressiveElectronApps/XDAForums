@@ -15,7 +15,7 @@
     <br />
     ----·----
     <br />
-    This is a Progressive Electron App, which uses Electron and other tools to create a true desktop-like web app.
+    This is a Proton App, which uses Electron and other tools to create a true desktop-like web app.
     <br />
     <br />
     <a href="https://github.com/ProgressiveElectronApps/XDAForums/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -31,10 +31,10 @@ Little note: This has lots of ads, because the XDA website does. I am working to
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Everyone knows knows about Progressive Web Apps (PWAs) and how they can turn a regular website into a "desktop app," but the issue with that is, this "Desktop App" still has the annyoing menus and popup permissions of a regular browser tap, and some links will lead you into a new browser windows. What happened to this "desktop app?" Well, PEAs happened. No, not the vegetable. 
+Everyone knows knows about Progressive Web Apps (PWAs) and how they can turn a regular website into a "desktop app," but the issue with that is, this "Desktop App" still has the annyoing menus and popup permissions of a regular browser tap, and some links will lead you into a new browser windows. What happened to this "desktop app?" Well, Proton Apps happened.
 <br />
 <br />
-PEA stands for 'Progressive **Electron** App'. These are (obviously) built on Electron, and they give you a more realistic desktop experience. If you're not familliar with how Electron apps work, there are no popup messages or menus getting in your way, and special links (like logins) will open in a new windows of the app. It is still a website, but it doesn't seem like it, now does it? I built the app using my good ol' Windows PC, and created an installer for it using Inno Setup Tools. 
+Proton App is the short form of 'Progressive **Electron** App'. These are (obviously) built on Electron, and they give you a more realistic desktop experience. If you're not familliar with how Electron apps work, there are no popup messages or menus getting in your way, and special links (like logins) will open in a new windows of the app. It is still a website, but it doesn't seem like it, now does it? I built the app using my good ol' Windows PC, and created an installer for it using Inno Setup Tools. 
 
 IMPORTANT: If your antivirus flags this app, it is a false positive. The code is (also obviously) open-source, so you can take a peek for yourself if you want.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -109,7 +109,7 @@ The developers over at 'Electron HQ' lol, for your hard work into getting Electr
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Electron]: https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff
+[Electron]: https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white
 [Electron-url]: https://www.electronjs.org/
-[npm]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff
+[npm]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
 [npm-url]: https://www.npmjs.com/
